@@ -57,6 +57,15 @@
 
 ---
 
+<!--LEETCODE-START-->
+### 🧠 LeetCode Stats
+
+Solving problems every day 💪
+
+<!--LEETCODE-END-->
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
