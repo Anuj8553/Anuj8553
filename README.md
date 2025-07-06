@@ -13,12 +13,12 @@
 
 ---
 
-### 🧠 Tech Stack & Tools
+🧠 Tech Stack & Tools
 
 - 💻 Languages: `C++`, `Java`, `JavaScript`, `Python`, `SQL`
 - 🌐 Web & Mobile: `React`, `Spring Boot`, `Flutter`, `Tailwind CSS`, `Firebase`
 - 📊 ML & DL: `TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`, `NumPy`
-🧠 Quote of the Day:
+
 
 
 - 🧪 Tools: `Git`, `GitHub`, `Postman`, `Android Studio`, `Colab`
