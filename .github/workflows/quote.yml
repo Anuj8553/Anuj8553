@@ -18,7 +18,7 @@ jobs:
 
       - name: Get a random quote
         run: |
-          curl -s https://api.quotable.io/random > quote.json
+          curl -sk https://api.quotable.io/random > quote.json
           echo "🧠 Quote of the Day:" > quote.md
           echo "" >> quote.md
           cat quote.json | jq -r '"💬 \"" + .content + "\"\n\n— " + .author' >> quote.md
