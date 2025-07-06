@@ -1,8 +1,8 @@
-name: Update README with Quote
+name: Update README with Quote and LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at 00:00 UTC
+    - cron: '0 0 * * *'  # Every day at 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,9 @@ jobs:
       - name: Get a random quote
         run: curl -sk https://api.quotable.io/random > quote.json
 
+      - name: Get LeetCode Stats
+        run: curl -s https://leetcode-stats-api.herokuapp.com/anuj_bh26 > lc.json
+
       - name: Update README.md with new quote
         run: |
           quote=$(jq -r '.content' quote.json)
@@ -33,8 +36,30 @@ jobs:
             }
             /<!--QUOTE-END-->/ {skip=0}
             skip==0 {print}
-          ' README.md > updated.md
-          mv updated.md README.md
+          ' README.md > temp1.md
+          mv temp1.md README.md
+
+      - name: Update README.md with LeetCode Stats
+        run: |
+          easy=$(jq '.easySolved' lc.json)
+          medium=$(jq '.mediumSolved' lc.json)
+          hard=$(jq '.hardSolved' lc.json)
+          total=$(jq '.totalSolved' lc.json)
+
+          stats="✅ Total: $total problems solved  \n🔹 Easy: $easy  \n🔸 Medium: $medium  \n🔺 Hard: $hard"
+
+          awk -v r="$stats" '
+            /<!--LEETCODE-START-->/ {
+              print;
+              print r;
+              skip=1;
+              next
+            }
+            /<!--LEETCODE-END-->/ {skip=0}
+            skip==0 {print}
+          ' README.md > temp2.md
+
+          mv temp2.md README.md
 
       - name: Commit and Push
         run: |
@@ -42,5 +67,5 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md || exit 0
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "🔁 daily quote update"
+          git commit -m "🔁 daily quote + LeetCode stats update"
           git push
