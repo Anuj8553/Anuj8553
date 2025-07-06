@@ -58,6 +58,9 @@
 ---
 
 <!--LEETCODE-START-->
+### 🧠 LeetCode Stats
+
+Solving problems every day 💪
 ✅ Total: 207 problems solved  
 🔹 Easy: 70  
 🔸 Medium: 118  
