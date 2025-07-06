@@ -79,3 +79,7 @@
   <a href="https://github.com/Anuj8553">💻 GitHub</a> |
   <a href="https://anuj8553.github.io/PortFolio/">🌍 Portfolio</a>
 </p>
+<!--QUOTE-START-->
+🧠 Quote of the Day will appear here.
+<!--QUOTE-END-->
+
