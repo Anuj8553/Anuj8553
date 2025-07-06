@@ -58,10 +58,10 @@
 ---
 
 <!--LEETCODE-START-->
-### 🧠 LeetCode Stats
-
-Solving problems every day 💪
-
+✅ Total: 207 problems solved  
+🔹 Easy: 70  
+🔸 Medium: 118  
+🔺 Hard: 19
 <!--LEETCODE-END-->
 
 ---
@@ -98,7 +98,7 @@ Solving problems every day 💪
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."  
-— Fawn M. Brodie
+💬 "We cannot solve our problems with the same thinking we used when we created them."  
+— Albert Einstein
 <!--QUOTE-END-->
 
