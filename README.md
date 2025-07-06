@@ -86,7 +86,7 @@
 ### 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The most certain sign of wisdom is cheerfulness."  
-— Michel de Montaigne
+💬 "A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."  
+— Fawn M. Brodie
 <!--QUOTE-END-->
 
