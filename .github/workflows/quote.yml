@@ -3,7 +3,7 @@ name: Update README with Quote
 on:
   schedule:
     - cron: '0 0 * * *'  # every day at 00:00 UTC
-  workflow_dispatch:      # manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -17,22 +17,30 @@ jobs:
         run: sudo apt-get install jq
 
       - name: Get a random quote
-        run: |
-          curl -sk https://api.quotable.io/random > quote.json
-          echo "🧠 Quote of the Day:" > quote.md
-          echo "" >> quote.md
-          cat quote.json | jq -r '"💬 \"" + .content + "\"\n\n— " + .author' >> quote.md
+        run: curl -sk https://api.quotable.io/random > quote.json
 
-      - name: Update README.md
+      - name: Update README.md with new quote
         run: |
-          head -n 20 README.md > top.md
-          tail -n +21 README.md > bottom.md
-          cat top.md quote.md bottom.md > README.md
+          quote=$(jq -r '.content' quote.json)
+          author=$(jq -r '.author' quote.json)
+          new_quote="💬 \"$quote\"  \n— $author"
+          awk -v r="$new_quote" '
+            /<!--QUOTE-CONTENT-->/ {
+              print;
+              print r;
+              skip=1;
+              next
+            }
+            /<!--QUOTE-END-->/ {skip=0}
+            skip==0 {print}
+          ' README.md > updated.md
+          mv updated.md README.md
 
       - name: Commit and Push
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
+          git add README.md || exit 0
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "🔁 daily quote update"
           git push
