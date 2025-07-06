@@ -82,8 +82,11 @@
   <a href="https://github.com/Anuj8553">💻 GitHub</a> |
   <a href="https://anuj8553.github.io/PortFolio/">🌍 Portfolio</a>
 </p>
+
+---
+
 <!--QUOTE-START-->
-### 🧠 Quote of the Day
+🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
 💬 "A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."  
