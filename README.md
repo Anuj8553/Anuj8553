@@ -20,9 +20,7 @@
 - 📊 ML & DL: `TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`, `NumPy`
 🧠 Quote of the Day:
 
-💬 "The most certain sign of wisdom is cheerfulness."
 
-— Michel de Montaigne
 - 🧪 Tools: `Git`, `GitHub`, `Postman`, `Android Studio`, `Colab`
 - 🛠️ Others: `REST APIs`, `Linux`, `Shell Scripting`, `Agile SDLC`
 
@@ -85,6 +83,10 @@
   <a href="https://anuj8553.github.io/PortFolio/">🌍 Portfolio</a>
 </p>
 <!--QUOTE-START-->
-🧠 Quote of the Day will appear here.
+### 🧠 Quote of the Day
+
+<!--QUOTE-CONTENT-->
+💬 "The most certain sign of wisdom is cheerfulness."  
+— Michel de Montaigne
 <!--QUOTE-END-->
 
