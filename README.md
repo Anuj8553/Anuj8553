@@ -58,9 +58,6 @@
 ---
 
 <!--LEETCODE-START-->
-### 🧠 LeetCode Stats
-
-Solving problems every day 💪
 ✅ Total: 207 problems solved  
 🔹 Easy: 70  
 🔸 Medium: 118  
@@ -101,7 +98,7 @@ Solving problems every day 💪
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We cannot solve our problems with the same thinking we used when we created them."  
-— Albert Einstein
+💬 "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."  
+— Og Mandino
 <!--QUOTE-END-->
 
