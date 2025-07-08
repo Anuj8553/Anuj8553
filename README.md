@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."  
-— Og Mandino
+💬 "In the end we retain from our studies only that which we practically apply."  
+— Johann Wolfgang von Goethe
 <!--QUOTE-END-->
 
