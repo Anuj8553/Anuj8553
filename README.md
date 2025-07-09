@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "In the end we retain from our studies only that which we practically apply."  
-— Johann Wolfgang von Goethe
+💬 "Whatever you do in life, surround yourself with smart people who'll argue with you."  
+— John Wooden
 <!--QUOTE-END-->
 
