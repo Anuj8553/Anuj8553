@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Whatever you do in life, surround yourself with smart people who'll argue with you."  
-— John Wooden
+💬 "The best way to predict your future is to create it."  
+— Peter Drucker
 <!--QUOTE-END-->
 
