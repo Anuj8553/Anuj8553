@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The best way to predict your future is to create it."  
-— Peter Drucker
+💬 "Be kind whenever possible. It is always possible."  
+— Dalai Lama
 <!--QUOTE-END-->
 
