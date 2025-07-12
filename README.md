@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Be kind whenever possible. It is always possible."  
-— Dalai Lama
+💬 "Whatever happens, take responsibility."  
+— Tony Robbins
 <!--QUOTE-END-->
 
