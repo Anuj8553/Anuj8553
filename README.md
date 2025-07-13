@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Whatever happens, take responsibility."  
-— Tony Robbins
+💬 "Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity."  
+— Robert Louis Stevenson
 <!--QUOTE-END-->
 
