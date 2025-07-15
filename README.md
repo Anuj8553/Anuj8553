@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "True friendship is like sound health; the value of it is seldom known until it is lost."  
-— Charles Caleb Colton
+💬 "Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."  
+— Henry van Dyke Jr.
 <!--QUOTE-END-->
 
