@@ -58,10 +58,10 @@
 ---
 
 <!--LEETCODE-START-->
-✅ Total: 207 problems solved  
-🔹 Easy: 70  
-🔸 Medium: 118  
-🔺 Hard: 19
+✅ Total: 229 problems solved  
+🔹 Easy: 72  
+🔸 Medium: 132  
+🔺 Hard: 25
 <!--LEETCODE-END-->
 
 ---
@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."  
-— Louis Pasteur
+💬 "Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."  
+— Martin Luther King Jr.
 <!--QUOTE-END-->
 
