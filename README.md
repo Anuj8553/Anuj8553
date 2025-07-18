@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."  
-— Martin Luther King Jr.
+💬 "You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person."  
+— The Buddha
 <!--QUOTE-END-->
 
