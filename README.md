@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If we did the things we are capable of, we would astound ourselves."  
-— Thomas Edison
+💬 "We've got to have a dream if we are going to make a dream come true."  
+— Walt Disney
 <!--QUOTE-END-->
 
