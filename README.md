@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We've got to have a dream if we are going to make a dream come true."  
-— Walt Disney
+💬 "The greatest remedy for anger is delay."  
+— Seneca the Younger
 <!--QUOTE-END-->
 
