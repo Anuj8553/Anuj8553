@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The greatest remedy for anger is delay."  
-— Seneca the Younger
+💬 "If you do not change direction, you may end up where you are heading."  
+— Laozi
 <!--QUOTE-END-->
 
