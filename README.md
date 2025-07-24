@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you do not change direction, you may end up where you are heading."  
-— Laozi
+💬 "Fear not for the future, weep not for the past."  
+— Percy Bysshe Shelley
 <!--QUOTE-END-->
 
