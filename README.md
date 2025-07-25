@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Fear not for the future, weep not for the past."  
-— Percy Bysshe Shelley
+💬 "Love all, trust a few, do wrong to none."  
+— William Shakespeare
 <!--QUOTE-END-->
 
