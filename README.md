@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Love all, trust a few, do wrong to none."  
-— William Shakespeare
+💬 "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."  
+— Elbert Hubbard
 <!--QUOTE-END-->
 
