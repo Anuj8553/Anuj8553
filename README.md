@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."  
-— Elbert Hubbard
+💬 "The ladder of success is never crowded at the top."  
+— Napoleon Hill
 <!--QUOTE-END-->
 
