@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The ladder of success is never crowded at the top."  
-— Napoleon Hill
+💬 "All that I am, or hope to be, I owe to my angel mother."  
+— Abraham Lincoln
 <!--QUOTE-END-->
 
