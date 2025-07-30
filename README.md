@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All that I am, or hope to be, I owe to my angel mother."  
-— Abraham Lincoln
+💬 "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education."  
+— Thomas Carlyle
 <!--QUOTE-END-->
 
