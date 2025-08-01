@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Never promise more than you can perform."  
-— Publilius Syrus
+💬 "Intuition will tell the thinking mind where to look next."  
+— Jonas Salk
 <!--QUOTE-END-->
 
