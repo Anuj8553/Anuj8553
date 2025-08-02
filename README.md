@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Intuition will tell the thinking mind where to look next."  
-— Jonas Salk
+💬 "Victory belongs to the most persevering."  
+— Napoleon
 <!--QUOTE-END-->
 
