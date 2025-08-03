@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Victory belongs to the most persevering."  
-— Napoleon
+💬 "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."  
+— Arthur Conan Doyle
 <!--QUOTE-END-->
 
