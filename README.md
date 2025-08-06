@@ -58,8 +58,8 @@
 ---
 
 <!--LEETCODE-START-->
-✅ Total: 229 problems solved  
-🔹 Easy: 72  
+✅ Total: 230 problems solved  
+🔹 Easy: 73  
 🔸 Medium: 132  
 🔺 Hard: 25
 <!--LEETCODE-END-->
@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All the great performers I have worked with are fueled by a personal dream."  
-— John Eliot
+💬 "One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world."  
+— Hannah Szenes
 <!--QUOTE-END-->
 
