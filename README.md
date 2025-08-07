@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world."  
-— Hannah Szenes
+💬 "If a man does his best, what else is there?"  
+— George S. Patton
 <!--QUOTE-END-->
 
