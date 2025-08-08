@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If a man does his best, what else is there?"  
-— George S. Patton
+💬 "Life is movement-we breathe, we eat, we walk, we move!"  
+— John Pierrakos
 <!--QUOTE-END-->
 
