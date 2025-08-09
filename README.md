@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Life is movement-we breathe, we eat, we walk, we move!"  
-— John Pierrakos
+💬 "When times are bad is when the real entrepreneurs emerge."  
+— Robert Kiyosaki
 <!--QUOTE-END-->
 
