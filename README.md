@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "When times are bad is when the real entrepreneurs emerge."  
-— Robert Kiyosaki
+💬 "For everything that lives is holy, life delights in life."  
+— William Blake
 <!--QUOTE-END-->
 
