@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "For everything that lives is holy, life delights in life."  
-— William Blake
+💬 "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."  
+— The Buddha
 <!--QUOTE-END-->
 
