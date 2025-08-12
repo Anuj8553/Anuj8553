@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."  
-— The Buddha
+💬 "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."  
+— Thomas Jefferson
 <!--QUOTE-END-->
 
