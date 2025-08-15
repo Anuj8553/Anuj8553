@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Truth is generally the best vindication against slander."  
-— Abraham Lincoln
+💬 "The exercise of an extraordinary gift is the supremist pleasure in life."  
+— Mark Twain
 <!--QUOTE-END-->
 
