@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Science and technology revolutionize our lives, but memory, tradition and myth frame our response."  
-— Arthur M. Schlesinger Jr.
+💬 "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."  
+— The Buddha
 <!--QUOTE-END-->
 
