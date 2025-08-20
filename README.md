@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing."  
-— The Buddha
+💬 "Where all think alike, no one thinks very much."  
+— Walter Lippmann
 <!--QUOTE-END-->
 
