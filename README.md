@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Where all think alike, no one thinks very much."  
-— Walter Lippmann
+💬 "Freedom is not worth having if it does not connote freedom to err."  
+— Mahatma Gandhi
 <!--QUOTE-END-->
 
