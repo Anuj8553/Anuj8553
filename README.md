@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Freedom is not worth having if it does not connote freedom to err."  
-— Mahatma Gandhi
+💬 "History will be kind to me for I intend to write it."  
+— Winston Churchill
 <!--QUOTE-END-->
 
