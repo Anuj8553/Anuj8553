@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "History will be kind to me for I intend to write it."  
-— Winston Churchill
+💬 "Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom."  
+— The Buddha
 <!--QUOTE-END-->
 
