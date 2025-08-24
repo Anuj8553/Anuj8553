@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom."  
-— The Buddha
+💬 "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."  
+— Thomas Edison
 <!--QUOTE-END-->
 
