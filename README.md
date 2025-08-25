@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."  
-— Thomas Edison
+💬 "Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love."  
+— Don Miguel Ruiz
 <!--QUOTE-END-->
 
