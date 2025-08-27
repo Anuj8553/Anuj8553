@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I don't believe in failure. It's not failure if you enjoyed the process."  
-— Oprah Winfrey
+💬 "The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief."  
+— Johann Wolfgang von Goethe
 <!--QUOTE-END-->
 
