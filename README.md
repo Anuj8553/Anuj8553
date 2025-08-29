@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Successful people ask better questions, and as a result, they get better answers."  
-— Tony Robbins
+💬 "We cannot solve our problems with the same thinking we used when we created them."  
+— Albert Einstein
 <!--QUOTE-END-->
 
