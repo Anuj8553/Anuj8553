@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We cannot solve our problems with the same thinking we used when we created them."  
-— Albert Einstein
+💬 "I never worry about action, but only inaction."  
+— Winston Churchill
 <!--QUOTE-END-->
 
