@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I never worry about action, but only inaction."  
-— Winston Churchill
+💬 "Failure doesn't mean you are a failure it just means you haven't succeeded yet."  
+— Robert Schuller
 <!--QUOTE-END-->
 
