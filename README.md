@@ -58,9 +58,9 @@
 ---
 
 <!--LEETCODE-START-->
-✅ Total: 230 problems solved  
+✅ Total: 231 problems solved  
 🔹 Easy: 73  
-🔸 Medium: 132  
+🔸 Medium: 133  
 🔺 Hard: 25
 <!--LEETCODE-END-->
 
@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Failure doesn't mean you are a failure it just means you haven't succeeded yet."  
-— Robert Schuller
+💬 "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."  
+— William Shakespeare
 <!--QUOTE-END-->
 
