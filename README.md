@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The only limit to our realization of tomorrow will be our doubts of today."  
-— Franklin D. Roosevelt
+💬 "In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later."  
+— Harold Geneen
 <!--QUOTE-END-->
 
