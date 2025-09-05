@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later."  
-— Harold Geneen
+💬 "Science is organized knowledge. Wisdom is organized life."  
+— Immanuel Kant
 <!--QUOTE-END-->
 
