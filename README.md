@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."  
-— Thomas Jefferson
+💬 "Adopt the pace of nature: her secret is patience."  
+— Ralph Waldo Emerson
 <!--QUOTE-END-->
 
