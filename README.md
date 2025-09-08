@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Adopt the pace of nature: her secret is patience."  
-— Ralph Waldo Emerson
+💬 "History is written by the victors."  
+— Winston Churchill
 <!--QUOTE-END-->
 
