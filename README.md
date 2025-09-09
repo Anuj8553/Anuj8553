@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "History is written by the victors."  
-— Winston Churchill
+💬 "Wisdom alone is the science of other sciences."  
+— Plato
 <!--QUOTE-END-->
 
