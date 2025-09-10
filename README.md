@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Wisdom alone is the science of other sciences."  
-— Plato
+💬 "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."  
+— Doug Larson
 <!--QUOTE-END-->
 
