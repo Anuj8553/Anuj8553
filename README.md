@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."  
-— Doug Larson
+💬 "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."  
+— Eknath Easwaran
 <!--QUOTE-END-->
 
