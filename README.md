@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."  
-— Eknath Easwaran
+💬 "Our work is the presentation of our capabilities."  
+— Edward Gibbon
 <!--QUOTE-END-->
 
