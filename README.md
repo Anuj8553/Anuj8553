@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Our work is the presentation of our capabilities."  
-— Edward Gibbon
+💬 "Silence at the proper season is wisdom, and better than any speech."  
+— Plutarch
 <!--QUOTE-END-->
 
