@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Silence at the proper season is wisdom, and better than any speech."  
-— Plutarch
+💬 "Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."  
+— Kahlil Gibran
 <!--QUOTE-END-->
 
