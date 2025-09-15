@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."  
-— Kahlil Gibran
+💬 "The weak can never forgive. Forgiveness is the attribute of the strong."  
+— Mahatma Gandhi
 <!--QUOTE-END-->
 
