@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The weak can never forgive. Forgiveness is the attribute of the strong."  
-— Mahatma Gandhi
+💬 "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."  
+— Blaise Pascal
 <!--QUOTE-END-->
 
