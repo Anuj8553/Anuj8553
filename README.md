@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."  
-— Blaise Pascal
+💬 "Nothing but heaven itself is better than a friend who is really a friend."  
+— Plautus
 <!--QUOTE-END-->
 
