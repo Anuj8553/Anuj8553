@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Nothing but heaven itself is better than a friend who is really a friend."  
-— Plautus
+💬 "We have two ears and one mouth so that we can listen twice as much as we speak."  
+— Epictetus
 <!--QUOTE-END-->
 
