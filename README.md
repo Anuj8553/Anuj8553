@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We have two ears and one mouth so that we can listen twice as much as we speak."  
-— Epictetus
+💬 "Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."  
+— Amy Bloom
 <!--QUOTE-END-->
 
