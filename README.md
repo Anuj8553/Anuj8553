@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."  
-— Amy Bloom
+💬 "The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible."  
+— Albert Einstein
 <!--QUOTE-END-->
 
