@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you have knowledge, let others light their candles in it."  
-— Margaret Fuller
+💬 "The essence of true friendship is to make allowance for another's little lapses."  
+— Ovid
 <!--QUOTE-END-->
 
