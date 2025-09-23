@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The essence of true friendship is to make allowance for another's little lapses."  
-— Ovid
+💬 "It is more shameful to distrust our friends than to be deceived by them."  
+— Confucius
 <!--QUOTE-END-->
 
