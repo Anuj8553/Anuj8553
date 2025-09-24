@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is more shameful to distrust our friends than to be deceived by them."  
-— Confucius
+💬 "What we achieve inwardly will change outer reality."  
+— Plutarch
 <!--QUOTE-END-->
 
