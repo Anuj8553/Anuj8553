@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "What we achieve inwardly will change outer reality."  
-— Plutarch
+💬 "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."  
+— Daisaku Ikeda
 <!--QUOTE-END-->
 
