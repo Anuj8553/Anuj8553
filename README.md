@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor."  
-— Daisaku Ikeda
+💬 "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"  
+— Tony Robbins
 <!--QUOTE-END-->
 
