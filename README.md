@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"  
-— Tony Robbins
+💬 "My friends are my estate."  
+— Emily Dickinson
 <!--QUOTE-END-->
 
