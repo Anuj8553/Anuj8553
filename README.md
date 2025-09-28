@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "My friends are my estate."  
-— Emily Dickinson
+💬 "Life is the flower for which love is the honey."  
+— Victor Hugo
 <!--QUOTE-END-->
 
