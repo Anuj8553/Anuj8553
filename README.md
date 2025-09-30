@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You are important enough to ask and you are blessed enough to receive back."  
-— Wayne Dyer
+💬 "Nothing will work unless you do."  
+— Maya Angelou
 <!--QUOTE-END-->
 
