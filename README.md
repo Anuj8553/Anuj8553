@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."  
-— Zhuang Zhou
+💬 "But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine."  
+— Thomas Jefferson
 <!--QUOTE-END-->
 
