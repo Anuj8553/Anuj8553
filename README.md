@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm."  
-— Dalai Lama
+💬 "If there is such a thing as a good marriage, it is because it resembles friendship rather than love."  
+— Michel de Montaigne
 <!--QUOTE-END-->
 
