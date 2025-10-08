@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You have to do your own growing no matter how tall your grandfather was."  
-— Abraham Lincoln
+💬 "But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint."  
+— Edmund Burke
 <!--QUOTE-END-->
 
