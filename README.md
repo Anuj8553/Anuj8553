@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "As an organizer I start from where the world is, as it is, not as I would like it to be."  
-— Saul Alinsky
+💬 "Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."  
+— The Buddha
 <!--QUOTE-END-->
 
