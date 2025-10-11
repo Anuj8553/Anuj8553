@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."  
-— The Buddha
+💬 "That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along."  
+— Lisa Alther
 <!--QUOTE-END-->
 
