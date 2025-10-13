@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Friendship may, and often does, grow into love, but love never subsides into friendship."  
-— Lord Byron
+💬 "Our character is what we do when we think no one is looking."  
+— H. Jackson Brown Jr.
 <!--QUOTE-END-->
 
