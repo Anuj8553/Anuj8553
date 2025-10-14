@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Our character is what we do when we think no one is looking."  
-— H. Jackson Brown Jr.
+💬 "A single lamp may light hundreds of thousands of lamps without itself being diminished."  
+— The Buddha
 <!--QUOTE-END-->
 
