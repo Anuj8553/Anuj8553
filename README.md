@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "A single lamp may light hundreds of thousands of lamps without itself being diminished."  
-— The Buddha
+💬 "Well begun is half done."  
+— Aristotle
 <!--QUOTE-END-->
 
