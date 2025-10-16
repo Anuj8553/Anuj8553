@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Well begun is half done."  
-— Aristotle
+💬 "By accepting yourself and being fully what you are, your presence can make others happy."  
+— Jane Roberts
 <!--QUOTE-END-->
 
