@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "By accepting yourself and being fully what you are, your presence can make others happy."  
-— Jane Roberts
+💬 "It is not enough to have a good mind; the main thing is to use it well."  
+— René Descartes
 <!--QUOTE-END-->
 
