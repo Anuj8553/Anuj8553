@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is not enough to have a good mind; the main thing is to use it well."  
-— René Descartes
+💬 "All things change; nothing perishes."  
+— Ovid
 <!--QUOTE-END-->
 
