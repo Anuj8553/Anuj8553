@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All things change; nothing perishes."  
-— Ovid
+💬 "A really great talent finds its happiness in execution."  
+— Johann Wolfgang von Goethe
 <!--QUOTE-END-->
 
