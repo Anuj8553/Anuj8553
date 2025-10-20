@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "A really great talent finds its happiness in execution."  
-— Johann Wolfgang von Goethe
+💬 "Nature takes away any faculty that is not used."  
+— William Inge
 <!--QUOTE-END-->
 
