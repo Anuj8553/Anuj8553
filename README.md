@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Nature takes away any faculty that is not used."  
-— William Inge
+💬 "You were not born a winner, and you were not born a loser. You are what you make yourself be."  
+— Lou Holtz
 <!--QUOTE-END-->
 
