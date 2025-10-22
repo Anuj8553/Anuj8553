@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You were not born a winner, and you were not born a loser. You are what you make yourself be."  
-— Lou Holtz
+💬 "Luck is what happens when preparation meets opportunity."  
+— Seneca the Younger
 <!--QUOTE-END-->
 
