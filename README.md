@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Luck is what happens when preparation meets opportunity."  
-— Seneca the Younger
+💬 "All phenomena are preceded by the mind, created by the mind, and have the mind as their master."  
+— The Buddha
 <!--QUOTE-END-->
 
