@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All phenomena are preceded by the mind, created by the mind, and have the mind as their master."  
-— The Buddha
+💬 "In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later."  
+— Harold Geneen
 <!--QUOTE-END-->
 
