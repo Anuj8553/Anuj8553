@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later."  
-— Harold Geneen
+💬 "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."  
+— Johann Wolfgang von Goethe
 <!--QUOTE-END-->
 
