@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I can, therefore I am."  
-— Simone Weil
+💬 "Just because something doesn't do what you planned it to do doesn't mean it's useless."  
+— Thomas Edison
 <!--QUOTE-END-->
 
