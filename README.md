@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Just because something doesn't do what you planned it to do doesn't mean it's useless."  
-— Thomas Edison
+💬 "All truths are easy to understand once they are discovered; the point is to discover them."  
+— Galileo Galilei
 <!--QUOTE-END-->
 
