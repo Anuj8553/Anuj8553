@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All truths are easy to understand once they are discovered; the point is to discover them."  
-— Galileo Galilei
+💬 "It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life."  
+— Sigmund Freud
 <!--QUOTE-END-->
 
