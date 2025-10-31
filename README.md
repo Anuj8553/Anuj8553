@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."  
-— Dhammapada
+💬 "Remember always that you not only have the right to be an individual, you have an obligation to be one."  
+— Eleanor Roosevelt
 <!--QUOTE-END-->
 
