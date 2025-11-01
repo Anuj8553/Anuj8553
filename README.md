@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Remember always that you not only have the right to be an individual, you have an obligation to be one."  
-— Eleanor Roosevelt
+💬 "In the business world, the rearview mirror is always clearer than the windshield."  
+— Warren Buffett
 <!--QUOTE-END-->
 
