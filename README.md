@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "In the business world, the rearview mirror is always clearer than the windshield."  
-— Warren Buffett
+💬 "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."  
+— Barbara De Angelis
 <!--QUOTE-END-->
 
