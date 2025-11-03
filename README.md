@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."  
-— Barbara De Angelis
+💬 "Kindness is the language which the deaf can hear and the blind can see."  
+— Mark Twain
 <!--QUOTE-END-->
 
