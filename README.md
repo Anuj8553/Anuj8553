@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Kindness is the language which the deaf can hear and the blind can see."  
-— Mark Twain
+💬 "You do not become good by trying to be good, but by finding the goodness that is already within you."  
+— Eckhart Tolle
 <!--QUOTE-END-->
 
