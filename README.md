@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You do not become good by trying to be good, but by finding the goodness that is already within you."  
-— Eckhart Tolle
+💬 "Excellence is to do a common thing in an uncommon way."  
+— Booker T. Washington
 <!--QUOTE-END-->
 
