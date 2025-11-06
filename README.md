@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Excellence is to do a common thing in an uncommon way."  
-— Booker T. Washington
+💬 "To succeed, we must first believe that we can."  
+— Michael Korda
 <!--QUOTE-END-->
 
