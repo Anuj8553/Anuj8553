@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "None knows the weight of another's burden."  
-— George Herbert
+💬 "What we see depends mainly on what we look for."  
+— John Lubbock
 <!--QUOTE-END-->
 
