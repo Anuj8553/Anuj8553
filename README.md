@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "What we see depends mainly on what we look for."  
-— John Lubbock
+💬 "I think and that is all that I am."  
+— Wayne Dyer
 <!--QUOTE-END-->
 
