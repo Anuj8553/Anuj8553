@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I think and that is all that I am."  
-— Wayne Dyer
+💬 "When we are no longer able to change a situation - we are challenged to change ourselves."  
+— Viktor Frankl
 <!--QUOTE-END-->
 
