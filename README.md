@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All action results from thought, so it is thoughts that matter."  
-— Sai Baba
+💬 "Make the best use of what is in your power and take the rest as it happens."  
+— Epictetus
 <!--QUOTE-END-->
 
