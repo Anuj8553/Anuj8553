@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Make the best use of what is in your power and take the rest as it happens."  
-— Epictetus
+💬 "He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."  
+— William C. Menninger
 <!--QUOTE-END-->
 
