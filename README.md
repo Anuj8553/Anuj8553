@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."  
-— William C. Menninger
+💬 "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"  
+— Richard Bach
 <!--QUOTE-END-->
 
