@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"  
-— Richard Bach
+💬 "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."  
+— Winston Churchill
 <!--QUOTE-END-->
 
