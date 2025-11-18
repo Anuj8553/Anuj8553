@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."  
-— Winston Churchill
+💬 "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."  
+— Thích Nhất Hạnh
 <!--QUOTE-END-->
 
