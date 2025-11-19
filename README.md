@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."  
-— Thích Nhất Hạnh
+💬 "All truths are easy to understand once they are discovered; the point is to discover them."  
+— Galileo Galilei
 <!--QUOTE-END-->
 
