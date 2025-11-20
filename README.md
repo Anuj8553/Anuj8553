@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All truths are easy to understand once they are discovered; the point is to discover them."  
-— Galileo Galilei
+💬 "Train up a fig tree in the way it should go, and when you are old sit under the shade of it."  
+— Charles Dickens
 <!--QUOTE-END-->
 
