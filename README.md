@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Train up a fig tree in the way it should go, and when you are old sit under the shade of it."  
-— Charles Dickens
+💬 "There are two ways of spreading light: to be the candle or the mirror that reflects it."  
+— Edith Wharton
 <!--QUOTE-END-->
 
