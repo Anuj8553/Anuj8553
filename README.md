@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There are two ways of spreading light: to be the candle or the mirror that reflects it."  
-— Edith Wharton
+💬 "Price is what you pay. Value is what you get."  
+— Warren Buffett
 <!--QUOTE-END-->
 
