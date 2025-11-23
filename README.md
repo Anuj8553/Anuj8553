@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Price is what you pay. Value is what you get."  
-— Warren Buffett
+💬 "Being entirely honest with oneself is a good exercise."  
+— Sigmund Freud
 <!--QUOTE-END-->
 
