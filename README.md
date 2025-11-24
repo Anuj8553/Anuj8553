@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Being entirely honest with oneself is a good exercise."  
-— Sigmund Freud
+💬 "The winds and waves are always on the side of the ablest navigators."  
+— Edward Gibbon
 <!--QUOTE-END-->
 
