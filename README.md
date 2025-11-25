@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The winds and waves are always on the side of the ablest navigators."  
-— Edward Gibbon
+💬 "Lose an hour in the morning, and you will spend all day looking for it."  
+— Richard Whately
 <!--QUOTE-END-->
 
