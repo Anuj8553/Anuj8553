@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Lose an hour in the morning, and you will spend all day looking for it."  
-— Richard Whately
+💬 "What wisdom can you find that is greater than kindness?"  
+— Jean-Jacques Rousseau
 <!--QUOTE-END-->
 
