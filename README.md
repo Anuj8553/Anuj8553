@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "What wisdom can you find that is greater than kindness?"  
-— Jean-Jacques Rousseau
+💬 "We can only be said to be alive in those moments when our hearts are conscious of our treasures."  
+— Thornton Wilder
 <!--QUOTE-END-->
 
