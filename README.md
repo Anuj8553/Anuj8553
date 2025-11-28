@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We can only be said to be alive in those moments when our hearts are conscious of our treasures."  
-— Thornton Wilder
+💬 "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."  
+— Mary Pickford
 <!--QUOTE-END-->
 
