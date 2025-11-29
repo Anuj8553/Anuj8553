@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."  
-— Mary Pickford
+💬 "Opportunity does not knock, it presents itself when you beat down the door."  
+— Kyle Chandler
 <!--QUOTE-END-->
 
