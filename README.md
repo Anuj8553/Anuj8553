@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Opportunity does not knock, it presents itself when you beat down the door."  
-— Kyle Chandler
+💬 "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."  
+— Ralph Waldo Emerson
 <!--QUOTE-END-->
 
