@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."  
-— Ralph Waldo Emerson
+💬 "Success is not final; failure is not fatal: it is the courage to continue that counts."  
+— Winston Churchill
 <!--QUOTE-END-->
 
