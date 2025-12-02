@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Success is not final; failure is not fatal: it is the courage to continue that counts."  
-— Winston Churchill
+💬 "If you do not change direction, you may end up where you are heading."  
+— Laozi
 <!--QUOTE-END-->
 
