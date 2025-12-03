@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you do not change direction, you may end up where you are heading."  
-— Laozi
+💬 "Don't be afraid to go out on a limb. That's where the fruit is."  
+— H. Jackson Brown Jr.
 <!--QUOTE-END-->
 
