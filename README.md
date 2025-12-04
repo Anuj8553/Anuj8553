@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Don't be afraid to go out on a limb. That's where the fruit is."  
-— H. Jackson Brown Jr.
+💬 "An invasion of armies can be resisted, but not an idea whose time has come."  
+— Victor Hugo
 <!--QUOTE-END-->
 
