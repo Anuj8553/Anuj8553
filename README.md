@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "An invasion of armies can be resisted, but not an idea whose time has come."  
-— Victor Hugo
+💬 "It is not a lack of love, but a lack of friendship that makes unhappy marriages."  
+— Friedrich Nietzsche
 <!--QUOTE-END-->
 
