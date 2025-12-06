@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is not a lack of love, but a lack of friendship that makes unhappy marriages."  
-— Friedrich Nietzsche
+💬 "He who knows that enough is enough will always have enough."  
+— Laozi
 <!--QUOTE-END-->
 
