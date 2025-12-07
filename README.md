@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "He who knows that enough is enough will always have enough."  
-— Laozi
+💬 "Think for yourselves and let others enjoy the privilege to do so too."  
+— Voltaire
 <!--QUOTE-END-->
 
