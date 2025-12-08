@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Think for yourselves and let others enjoy the privilege to do so too."  
-— Voltaire
+💬 "I'd rather regret the things that I have done than the things that I have not done."  
+— Lucille Ball
 <!--QUOTE-END-->
 
