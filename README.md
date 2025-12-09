@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I'd rather regret the things that I have done than the things that I have not done."  
-— Lucille Ball
+💬 "There is no fear for one whose mind is not filled with desires."  
+— The Buddha
 <!--QUOTE-END-->
 
