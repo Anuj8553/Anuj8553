@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There is no fear for one whose mind is not filled with desires."  
-— The Buddha
+💬 "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."  
+— Albert Einstein
 <!--QUOTE-END-->
 
