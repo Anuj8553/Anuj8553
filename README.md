@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is the supreme art of the teacher to awaken joy in creative expression and knowledge."  
-— Albert Einstein
+💬 "To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."  
+— Joan Didion
 <!--QUOTE-END-->
 
