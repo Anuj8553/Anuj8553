@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."  
-— Joan Didion
+💬 "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."  
+— Vince Lombardi
 <!--QUOTE-END-->
 
