@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."  
+💬 "Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal."  
 — Vince Lombardi
 <!--QUOTE-END-->
 
