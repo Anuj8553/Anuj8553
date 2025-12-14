@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal."  
-— Vince Lombardi
+💬 "Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."  
+— John Wooden
 <!--QUOTE-END-->
 
