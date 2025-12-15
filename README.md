@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."  
-— John Wooden
+💬 "Don't talk about what you have done or what you are going to do."  
+— Thomas Jefferson
 <!--QUOTE-END-->
 
