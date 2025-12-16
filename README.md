@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Don't talk about what you have done or what you are going to do."  
-— Thomas Jefferson
+💬 "Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."  
+— Dhammapada
 <!--QUOTE-END-->
 
