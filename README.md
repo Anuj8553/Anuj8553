@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The higher we are placed, the more humbly we should walk."  
-— Cicero
+💬 "Until you make peace with who you are, you'll never be content with what you have."  
+— Doris Mortman
 <!--QUOTE-END-->
 
