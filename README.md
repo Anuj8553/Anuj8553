@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Until you make peace with who you are, you'll never be content with what you have."  
-— Doris Mortman
+💬 "Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"  
+— Bill Bradley
 <!--QUOTE-END-->
 
