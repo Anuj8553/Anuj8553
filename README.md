@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"  
-— Bill Bradley
+💬 "Pick battles big enough to matter, small enough to win."  
+— Jonathan Kozol
 <!--QUOTE-END-->
 
