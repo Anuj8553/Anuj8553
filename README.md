@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Pick battles big enough to matter, small enough to win."  
-— Jonathan Kozol
+💬 "The human spirit must prevail over technology."  
+— Albert Einstein
 <!--QUOTE-END-->
 
