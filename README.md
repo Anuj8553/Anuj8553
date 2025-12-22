@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The human spirit must prevail over technology."  
-— Albert Einstein
+💬 "The world is round so that friendship may encircle it."  
+— Pierre Teilhard de Chardin
 <!--QUOTE-END-->
 
