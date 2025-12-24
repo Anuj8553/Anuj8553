@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Injuries may be forgiven, but not forgotten."  
-— Aesop
+💬 "A leader is one who knows the way, goes the way, and shows the way."  
+— John C. Maxwell
 <!--QUOTE-END-->
 
