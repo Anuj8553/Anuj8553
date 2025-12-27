@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All the great performers I have worked with are fueled by a personal dream."  
-— John Eliot
+💬 "If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome."  
+— Anne Bradstreet
 <!--QUOTE-END-->
 
