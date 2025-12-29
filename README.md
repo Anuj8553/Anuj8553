@@ -58,10 +58,10 @@
 ---
 
 <!--LEETCODE-START-->
-✅ Total: 231 problems solved  
-🔹 Easy: 73  
-🔸 Medium: 133  
-🔺 Hard: 25
+✅ Total: 0 problems solved  
+🔹 Easy: 0  
+🔸 Medium: 0  
+🔺 Hard: 0
 <!--LEETCODE-END-->
 
 ---
@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed."  
-— Michael Jordan
+💬 "If you think you can, you can. And if you think you can't, you're right."  
+— Henry Ford
 <!--QUOTE-END-->
 
