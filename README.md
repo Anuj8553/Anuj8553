@@ -58,10 +58,10 @@
 ---
 
 <!--LEETCODE-START-->
-✅ Total: 0 problems solved  
-🔹 Easy: 0  
-🔸 Medium: 0  
-🔺 Hard: 0
+✅ Total: 231 problems solved  
+🔹 Easy: 73  
+🔸 Medium: 133  
+🔺 Hard: 25
 <!--LEETCODE-END-->
 
 ---
@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you think you can, you can. And if you think you can't, you're right."  
-— Henry Ford
+💬 "Ethics change with technology."  
+— Larry Niven
 <!--QUOTE-END-->
 
