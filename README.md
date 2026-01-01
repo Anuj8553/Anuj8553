@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Ethics change with technology."  
-— Larry Niven
+💬 "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."  
+— Peter Drucker
 <!--QUOTE-END-->
 
