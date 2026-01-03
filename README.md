@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Friendship without self-interest is one of the rare and beautiful things of life."  
-— James F. Byrnes
+💬 "Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas."  
+— The Buddha
 <!--QUOTE-END-->
 
