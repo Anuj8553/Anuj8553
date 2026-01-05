@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."  
-— Janet Jackson
+💬 "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."  
+— Nelson Mandela
 <!--QUOTE-END-->
 
