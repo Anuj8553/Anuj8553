@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living."  
-— Nelson Mandela
+💬 "Don't turn away from possible futures before you're certain you don't have anything to learn from them."  
+— Richard Bach
 <!--QUOTE-END-->
 
