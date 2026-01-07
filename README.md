@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Don't turn away from possible futures before you're certain you don't have anything to learn from them."  
-— Richard Bach
+💬 "Friendship increases in visiting friends, but in visiting them seldom."  
+— Francis Bacon
 <!--QUOTE-END-->
 
