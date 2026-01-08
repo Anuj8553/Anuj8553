@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Friendship increases in visiting friends, but in visiting them seldom."  
-— Francis Bacon
+💬 "When the world is so complicated, the simple gift of friendship is within all of our hands."  
+— Maria Shriver
 <!--QUOTE-END-->
 
