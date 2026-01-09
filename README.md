@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "When the world is so complicated, the simple gift of friendship is within all of our hands."  
-— Maria Shriver
+💬 "The lure of the distant and the difficult is deceptive. The great opportunity is where you are."  
+— John Burroughs
 <!--QUOTE-END-->
 
