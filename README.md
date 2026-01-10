@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The lure of the distant and the difficult is deceptive. The great opportunity is where you are."  
-— John Burroughs
+💬 "The minute you settle for less than you deserve, you get even less than you settled for."  
+— Maureen Dowd
 <!--QUOTE-END-->
 
