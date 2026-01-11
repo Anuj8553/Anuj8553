@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The minute you settle for less than you deserve, you get even less than you settled for."  
-— Maureen Dowd
+💬 "Always do your best. What you plant now, you will harvest later."  
+— Og Mandino
 <!--QUOTE-END-->
 
