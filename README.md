@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Always do your best. What you plant now, you will harvest later."  
-— Og Mandino
+💬 "To find a man's true character, play golf with him."  
+— P. G. Wodehouse
 <!--QUOTE-END-->
 
