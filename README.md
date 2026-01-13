@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "To find a man's true character, play golf with him."  
-— P. G. Wodehouse
+💬 "Learning never exhausts the mind."  
+— Leonardo da Vinci
 <!--QUOTE-END-->
 
