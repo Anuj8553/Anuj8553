@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Learning never exhausts the mind."  
-— Leonardo da Vinci
+💬 "Any sufficiently advanced technology is equivalent to magic."  
+— Arthur C. Clarke
 <!--QUOTE-END-->
 
