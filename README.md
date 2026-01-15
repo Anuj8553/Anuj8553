@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Any sufficiently advanced technology is equivalent to magic."  
-— Arthur C. Clarke
+💬 "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."  
+— John Locke
 <!--QUOTE-END-->
 
