@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."  
-— John Locke
+💬 "Choose a job you love, and you will never have to work a day in your life."  
+— Confucius
 <!--QUOTE-END-->
 
