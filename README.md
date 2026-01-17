@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Choose a job you love, and you will never have to work a day in your life."  
-— Confucius
+💬 "All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."  
+— Anne Brontë
 <!--QUOTE-END-->
 
