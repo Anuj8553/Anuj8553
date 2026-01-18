@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."  
-— Anne Brontë
+💬 "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."  
+— Eustace Budgell
 <!--QUOTE-END-->
 
