@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."  
-— Eustace Budgell
+💬 "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently."  
+— William Arthur Ward
 <!--QUOTE-END-->
 
