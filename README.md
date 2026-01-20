@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently."  
-— William Arthur Ward
+💬 "There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool."  
+— Francis Bacon
 <!--QUOTE-END-->
 
