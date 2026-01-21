@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool."  
-— Francis Bacon
+💬 "I destroy my enemies when I make them my friends."  
+— Abraham Lincoln
 <!--QUOTE-END-->
 
