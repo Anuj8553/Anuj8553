@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I destroy my enemies when I make them my friends."  
-— Abraham Lincoln
+💬 "Remember that failure is an event, not a person."  
+— Zig Ziglar
 <!--QUOTE-END-->
 
