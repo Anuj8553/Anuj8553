@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Remember that failure is an event, not a person."  
-— Zig Ziglar
+💬 "Imagination is the highest kite one can fly."  
+— Lauren Bacall
 <!--QUOTE-END-->
 
