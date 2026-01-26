@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "All wisdom does not reside in Delhi."  
-— P. Chidambaram
+💬 "The extreme limit of wisdom, that's what the public calls madness."  
+— Jean Cocteau
 <!--QUOTE-END-->
 
