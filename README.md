@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The extreme limit of wisdom, that's what the public calls madness."  
-— Jean Cocteau
+💬 "The world turns aside to let any man pass who knows where he is going."  
+— Epictetus
 <!--QUOTE-END-->
 
