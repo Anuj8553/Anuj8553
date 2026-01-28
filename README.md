@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The world turns aside to let any man pass who knows where he is going."  
-— Epictetus
+💬 "Avoid having your ego so close to your position that when your position falls, your ego goes with it."  
+— Colin Powell
 <!--QUOTE-END-->
 
