@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Avoid having your ego so close to your position that when your position falls, your ego goes with it."  
-— Colin Powell
+💬 "There is only one corner of the universe you can be certain of improving, and that's your own self."  
+— Aldous Huxley
 <!--QUOTE-END-->
 
