@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There is only one corner of the universe you can be certain of improving, and that's your own self."  
-— Aldous Huxley
+💬 "Let us sacrifice our today so that our children can have a better tomorrow."  
+— A. P. J. Abdul Kalam
 <!--QUOTE-END-->
 
