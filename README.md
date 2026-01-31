@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Let us sacrifice our today so that our children can have a better tomorrow."  
-— A. P. J. Abdul Kalam
+💬 "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."  
+— Epictetus
 <!--QUOTE-END-->
 
