@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort."  
-— Epictetus
+💬 "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."  
+— Ralph Abernathy
 <!--QUOTE-END-->
 
