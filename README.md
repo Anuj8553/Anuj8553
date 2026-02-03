@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition."  
-— Ralph Abernathy
+💬 "Wise men talk because they have something to say; fools, because they have to say something."  
+— Plato
 <!--QUOTE-END-->
 
