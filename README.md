@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Wise men talk because they have something to say; fools, because they have to say something."  
-— Plato
+💬 "Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."  
+— Margaret Laurence
 <!--QUOTE-END-->
 
