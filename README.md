@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."  
-— Margaret Laurence
+💬 "You have to do your own growing no matter how tall your grandfather was."  
+— Abraham Lincoln
 <!--QUOTE-END-->
 
