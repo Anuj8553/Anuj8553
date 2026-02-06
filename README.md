@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You have to do your own growing no matter how tall your grandfather was."  
-— Abraham Lincoln
+💬 "As you think, so shall you become."  
+— Bruce Lee
 <!--QUOTE-END-->
 
