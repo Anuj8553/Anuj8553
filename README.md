@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "We never understand how little we need in this world until we know the loss of it."  
-— J. M. Barrie
+💬 "Never reach out your hand unless you're willing to extend an arm."  
+— Pope Paul VI
 <!--QUOTE-END-->
 
