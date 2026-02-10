@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Never reach out your hand unless you're willing to extend an arm."  
-— Pope Paul VI
+💬 "It is fatal to enter any war without the will to win it."  
+— Douglas MacArthur
 <!--QUOTE-END-->
 
