@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is fatal to enter any war without the will to win it."  
-— Douglas MacArthur
+💬 "Friendship is always a sweet responsibility, never an opportunity."  
+— Kahlil Gibran
 <!--QUOTE-END-->
 
