@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."  
-— Elizabeth Montagu
+💬 "Friendship multiplies the good of life and divides the evil."  
+— Baltasar Gracián
 <!--QUOTE-END-->
 
