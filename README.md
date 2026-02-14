@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Friendship multiplies the good of life and divides the evil."  
-— Baltasar Gracián
+💬 "Waste no more time arguing about what a good man should be. Be one."  
+— Marcus Aurelius
 <!--QUOTE-END-->
 
