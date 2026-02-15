@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Waste no more time arguing about what a good man should be. Be one."  
-— Marcus Aurelius
+💬 "You are never given a wish without also being given the power to make it come true. You may have to work for it, however."  
+— Richard Bach
 <!--QUOTE-END-->
 
