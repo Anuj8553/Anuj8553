@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable."  
-— Bruce Lee
+💬 "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."  
+— Dalai Lama
 <!--QUOTE-END-->
 
