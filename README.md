@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."  
-— Dalai Lama
+💬 "You don't look out there for God, something in the sky, you look in you."  
+— Alan Watts
 <!--QUOTE-END-->
 
