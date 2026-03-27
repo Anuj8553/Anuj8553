@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "You don't look out there for God, something in the sky, you look in you."  
-— Alan Watts
+💬 "Never mistake motion for action."  
+— Ernest Hemingway
 <!--QUOTE-END-->
 
