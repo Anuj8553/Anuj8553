@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Never mistake motion for action."  
-— Ernest Hemingway
+💬 "The ego is nothing other than the focus of conscious attention."  
+— Alan Watts
 <!--QUOTE-END-->
 
