@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The ego is nothing other than the focus of conscious attention."  
-— Alan Watts
+💬 "Every man is a volume if you know how to read him."  
+— William Ellery Channing
 <!--QUOTE-END-->
 
