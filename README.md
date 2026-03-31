@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Every man is a volume if you know how to read him."  
-— William Ellery Channing
+💬 "Life is a learning experience, only if you learn."  
+— Yogi Berra
 <!--QUOTE-END-->
 
