@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Life is a learning experience, only if you learn."  
-— Yogi Berra
+💬 "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."  
+— Melody Beattie
 <!--QUOTE-END-->
 
