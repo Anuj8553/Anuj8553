@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."  
-— Melody Beattie
+💬 "Continuous effort - not strength or intelligence - is the key to unlocking our potential."  
+— Winston Churchill
 <!--QUOTE-END-->
 
