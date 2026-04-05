@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Believe you can and you're halfway there."  
-— Theodore Roosevelt
+💬 "There is no expedient to which a man will not go to avoid the labor of thinking."  
+— Thomas Edison
 <!--QUOTE-END-->
 
