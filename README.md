@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "There is no expedient to which a man will not go to avoid the labor of thinking."  
-— Thomas Edison
+💬 "Happiness mainly comes from our own attitude, rather than from external factors."  
+— Dalai Lama
 <!--QUOTE-END-->
 
