@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Happiness mainly comes from our own attitude, rather than from external factors."  
-— Dalai Lama
+💬 "Tell me and I forget. Teach me and I remember. Involve me and I learn."  
+— Benjamin Franklin
 <!--QUOTE-END-->
 
