@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "If one is lucky, a solitary fantasy can totally transform one million realities."  
-— Maya Angelou
+💬 "The superior man is modest in his speech but exceeds in his actions."  
+— Confucius
 <!--QUOTE-END-->
 
