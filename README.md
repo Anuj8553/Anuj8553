@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "The superior man is modest in his speech but exceeds in his actions."  
-— Confucius
+💬 "God has given you one face, and you make yourself another."  
+— William Shakespeare
 <!--QUOTE-END-->
 
