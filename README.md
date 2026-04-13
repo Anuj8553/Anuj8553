@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "God has given you one face, and you make yourself another."  
-— William Shakespeare
+💬 "Just trust yourself, then you will know how to live."  
+— Johann Wolfgang von Goethe
 <!--QUOTE-END-->
 
