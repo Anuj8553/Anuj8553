@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Just trust yourself, then you will know how to live."  
-— Johann Wolfgang von Goethe
+💬 "Maxim for life: You get treated in life the way you teach people to treat you."  
+— Wayne Dyer
 <!--QUOTE-END-->
 
