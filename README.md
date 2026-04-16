@@ -98,7 +98,7 @@
 🧠 Quote of the Day
 
 <!--QUOTE-CONTENT-->
-💬 "Happiness is a perfume you cannot pour on others without getting a few drops on yourself."  
-— Ralph Waldo Emerson
+💬 "We cannot be more sensitive to pleasure without being more sensitive to pain."  
+— Alan Watts
 <!--QUOTE-END-->
 
